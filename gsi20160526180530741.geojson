@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "_markerType": "CircleMarker",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.5,
+        "_radius": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.40109729766846,
+          35.568172454283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.40111875534058,
+            35.56818118137529
+          ],
+          [
+            139.40016388893127,
+            35.569176063665644
+          ],
+          [
+            139.39920902252197,
+            35.56856517249507
+          ],
+          [
+            139.39879059791562,
+            35.56890552672186
+          ],
+          [
+            139.39915537834165,
+            35.56921969857102
+          ]
+        ]
+      }
+    }
+  ]
+}
